@@ -3,12 +3,12 @@ Exemplo de implementação de um carrinho de compras usando Node.js
 
 ## Instalação
 
+```
 npm i
-
-##Execução
+```
+## Execução
 
 ```
 # Testes unitarios
 npm test
-
 ```
